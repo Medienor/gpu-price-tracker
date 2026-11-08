@@ -61,7 +61,7 @@ How the numbers are made:
 | Decentralized | Nosana | per market | running vs idle nodes |
 | Decentralized | Salad | — | utilization % (consumer GPUs) |
 | GPU cloud | RunPod (Community, Secure) | list prices | stock level |
-| GPU cloud | Verda (DataCrunch), Hyperbolic, Cudo | API | — |
+| GPU cloud | Verda (DataCrunch), Hyperbolic, Cudo, Runcrate | API | — |
 | GPU cloud | Scaleway, OVHcloud | public catalogs (EUR → USD at ECB rate) | Scaleway: zone availability |
 | GPU cloud | Lambda, CoreWeave, Nebius, Together AI, Crusoe, Hyperstack, DigitalOcean, Jarvislabs | pricing pages (on-demand, spot where listed) | — |
 | Aggregator | Spheron | resold offers, on-demand + spot | — |
