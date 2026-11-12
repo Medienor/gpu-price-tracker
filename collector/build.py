@@ -90,6 +90,8 @@ SOURCES = {
     "DigitalOcean": _src("https://www.digitalocean.com/pricing/gpu-droplets", "GPU cloud", "plans", "GPU Droplet on-demand prices."),
     "Jarvislabs": _src("https://jarvislabs.ai/pricing", "GPU cloud", "plans", "On-demand and spot GPU-hour prices from the pricing page."),
     "Hyperbolic": _src("https://hyperbolic.ai", "GPU cloud", "offers", "On-demand rental options (only listed while in stock)."),
+    "Runcrate": _src("https://www.runcrate.ai/pricing", "GPU cloud", "GPU types",
+                     "AI cloud. Public pricing feed, on-demand price per GPU-hour; types with no live offers are skipped."),
     "Cudo": _src("https://www.cudocompute.com", "GPU cloud", "data centers", "GPU component of the hourly VM price, per data center."),
     "Scaleway": _src("https://www.scaleway.com/en/pricing/gpu/", "GPU cloud", "offers",
                      "Public catalog (EUR, converted at the ECB rate); demand = live zone availability."),
