@@ -1,0 +1,199 @@
+ts,gpu,source,metric,value
+2026-11-21T04:00Z,A10,AWS,interrupt_pct,21.03
+2026-11-21T04:00Z,A10,AWS,spot_discount_pct,58.53
+2026-11-21T04:00Z,A10,Vast.ai,gpus_rented,17
+2026-11-21T04:00Z,A10,Vast.ai,gpus_total,23
+2026-11-21T04:00Z,A100 40GB,AWS,interrupt_pct,11.73
+2026-11-21T04:00Z,A100 40GB,AWS,spot_discount_pct,49.75
+2026-11-21T04:00Z,A100 40GB,Akash,gpus_rented,0
+2026-11-21T04:00Z,A100 40GB,Akash,gpus_total,1
+2026-11-21T04:00Z,A100 40GB,Clore.ai,gpus_rented,21
+2026-11-21T04:00Z,A100 40GB,Clore.ai,gpus_total,24
+2026-11-21T04:00Z,A100 40GB,Nosana,gpus_rented,10
+2026-11-21T04:00Z,A100 40GB,Nosana,gpus_total,11
+2026-11-21T04:00Z,A100 40GB,RunPod Community,stock,1
+2026-11-21T04:00Z,A100 40GB,Vast.ai,gpus_rented,183
+2026-11-21T04:00Z,A100 40GB,Vast.ai,gpus_total,275
+2026-11-21T04:00Z,A100 80GB,AWS,interrupt_pct,14.17
+2026-11-21T04:00Z,A100 80GB,AWS,spot_discount_pct,57.33
+2026-11-21T04:00Z,A100 80GB,Akash,gpus_rented,89
+2026-11-21T04:00Z,A100 80GB,Akash,gpus_total,120
+2026-11-21T04:00Z,A100 80GB,Clore.ai,gpus_rented,0
+2026-11-21T04:00Z,A100 80GB,Clore.ai,gpus_total,1
+2026-11-21T04:00Z,A100 80GB,Lium,gpus_rented,54
+2026-11-21T04:00Z,A100 80GB,Lium,gpus_total,55
+2026-11-21T04:00Z,A100 80GB,Nosana,gpus_rented,14
+2026-11-21T04:00Z,A100 80GB,Nosana,gpus_total,14
+2026-11-21T04:00Z,A100 80GB,RunPod Secure,stock,3
+2026-11-21T04:00Z,A100 80GB,Vast.ai,gpus_rented,230
+2026-11-21T04:00Z,A100 80GB,Vast.ai,gpus_total,283
+2026-11-21T04:00Z,A40,RunPod Secure,stock,3
+2026-11-21T04:00Z,A40,Vast.ai,gpus_rented,63
+2026-11-21T04:00Z,A40,Vast.ai,gpus_total,69
+2026-11-21T04:00Z,B200,AWS,interrupt_pct,10.83
+2026-11-21T04:00Z,B200,AWS,spot_discount_pct,81
+2026-11-21T04:00Z,B200,Lium,gpus_rented,137
+2026-11-21T04:00Z,B200,Lium,gpus_total,159
+2026-11-21T04:00Z,B200,Vast.ai,gpus_rented,203
+2026-11-21T04:00Z,B200,Vast.ai,gpus_total,258
+2026-11-21T04:00Z,B300,AWS,interrupt_pct,2.5
+2026-11-21T04:00Z,B300,AWS,spot_discount_pct,86
+2026-11-21T04:00Z,B300,Akash,gpus_rented,16
+2026-11-21T04:00Z,B300,Akash,gpus_total,16
+2026-11-21T04:00Z,B300,Clore.ai,gpus_rented,1
+2026-11-21T04:00Z,B300,Clore.ai,gpus_total,2
+2026-11-21T04:00Z,B300,Lium,gpus_rented,360
+2026-11-21T04:00Z,B300,Lium,gpus_total,407
+2026-11-21T04:00Z,B300,RunPod Secure,stock,1
+2026-11-21T04:00Z,B300,Scaleway,stock,0
+2026-11-21T04:00Z,B300,Vast.ai,gpus_rented,118
+2026-11-21T04:00Z,B300,Vast.ai,gpus_total,168
+2026-11-21T04:00Z,B300,io.net,gpus_rented,8
+2026-11-21T04:00Z,B300,io.net,gpus_total,8
+2026-11-21T04:00Z,H100 NVL,Clore.ai,gpus_rented,2
+2026-11-21T04:00Z,H100 NVL,Clore.ai,gpus_total,6
+2026-11-21T04:00Z,H100 NVL,RunPod Community,stock,1
+2026-11-21T04:00Z,H100 NVL,Vast.ai,gpus_rented,20
+2026-11-21T04:00Z,H100 NVL,Vast.ai,gpus_total,26
+2026-11-21T04:00Z,H100 PCIe,RunPod Secure,stock,1
+2026-11-21T04:00Z,H100 PCIe,Scaleway,stock,3
+2026-11-21T04:00Z,H100 PCIe,Vast.ai,gpus_rented,17
+2026-11-21T04:00Z,H100 PCIe,Vast.ai,gpus_total,22
+2026-11-21T04:00Z,H100 PCIe,io.net,gpus_rented,8
+2026-11-21T04:00Z,H100 PCIe,io.net,gpus_total,8
+2026-11-21T04:00Z,H100 SXM,AWS,interrupt_pct,3.75
+2026-11-21T04:00Z,H100 SXM,AWS,spot_discount_pct,63.2
+2026-11-21T04:00Z,H100 SXM,Akash,gpus_rented,36
+2026-11-21T04:00Z,H100 SXM,Akash,gpus_total,56
+2026-11-21T04:00Z,H100 SXM,Clore.ai,gpus_rented,0
+2026-11-21T04:00Z,H100 SXM,Clore.ai,gpus_total,24
+2026-11-21T04:00Z,H100 SXM,Lium,gpus_rented,88
+2026-11-21T04:00Z,H100 SXM,Lium,gpus_total,96
+2026-11-21T04:00Z,H100 SXM,RunPod Secure,stock,3
+2026-11-21T04:00Z,H100 SXM,Scaleway,stock,1
+2026-11-21T04:00Z,H100 SXM,Vast.ai,gpus_rented,148
+2026-11-21T04:00Z,H100 SXM,Vast.ai,gpus_total,165
+2026-11-21T04:00Z,H100 SXM,io.net,gpus_rented,960
+2026-11-21T04:00Z,H100 SXM,io.net,gpus_total,960
+2026-11-21T04:00Z,H200,AWS,interrupt_pct,3.5
+2026-11-21T04:00Z,H200,AWS,spot_discount_pct,67.5
+2026-11-21T04:00Z,H200,Lium,gpus_rented,106
+2026-11-21T04:00Z,H200,Lium,gpus_total,224
+2026-11-21T04:00Z,H200,RunPod Community,stock,1
+2026-11-21T04:00Z,H200,RunPod Secure,stock,1
+2026-11-21T04:00Z,H200,Vast.ai,gpus_rented,149
+2026-11-21T04:00Z,H200,Vast.ai,gpus_total,182
+2026-11-21T04:00Z,H200 NVL,Vast.ai,gpus_rented,141
+2026-11-21T04:00Z,H200 NVL,Vast.ai,gpus_total,213
+2026-11-21T04:00Z,L4,AWS,interrupt_pct,17.5
+2026-11-21T04:00Z,L4,AWS,spot_discount_pct,55.53
+2026-11-21T04:00Z,L4,Clore.ai,gpus_rented,0
+2026-11-21T04:00Z,L4,Clore.ai,gpus_total,4
+2026-11-21T04:00Z,L4,RunPod Secure,stock,1
+2026-11-21T04:00Z,L4,Scaleway,stock,3
+2026-11-21T04:00Z,L4,Vast.ai,gpus_rented,37
+2026-11-21T04:00Z,L4,Vast.ai,gpus_total,53
+2026-11-21T04:00Z,L40,Lium,gpus_rented,24
+2026-11-21T04:00Z,L40,Lium,gpus_total,27
+2026-11-21T04:00Z,L40,Vast.ai,gpus_rented,5
+2026-11-21T04:00Z,L40,Vast.ai,gpus_total,5
+2026-11-21T04:00Z,L40,io.net,gpus_rented,40
+2026-11-21T04:00Z,L40,io.net,gpus_total,40
+2026-11-21T04:00Z,L40S,AWS,interrupt_pct,22.78
+2026-11-21T04:00Z,L40S,AWS,spot_discount_pct,58.44
+2026-11-21T04:00Z,L40S,Clore.ai,gpus_rented,1
+2026-11-21T04:00Z,L40S,Clore.ai,gpus_total,1
+2026-11-21T04:00Z,L40S,Lium,gpus_rented,91
+2026-11-21T04:00Z,L40S,Lium,gpus_total,91
+2026-11-21T04:00Z,L40S,RunPod Secure,stock,1
+2026-11-21T04:00Z,L40S,Scaleway,stock,1
+2026-11-21T04:00Z,L40S,Vast.ai,gpus_rented,176
+2026-11-21T04:00Z,L40S,Vast.ai,gpus_total,240
+2026-11-21T04:00Z,L40S,io.net,gpus_rented,12
+2026-11-21T04:00Z,L40S,io.net,gpus_total,12
+2026-11-21T04:00Z,RTX 3090,Clore.ai,gpus_rented,170
+2026-11-21T04:00Z,RTX 3090,Clore.ai,gpus_total,311
+2026-11-21T04:00Z,RTX 3090,Lium,gpus_rented,94
+2026-11-21T04:00Z,RTX 3090,Lium,gpus_total,119
+2026-11-21T04:00Z,RTX 3090,Nosana,gpus_rented,22
+2026-11-21T04:00Z,RTX 3090,Nosana,gpus_total,33
+2026-11-21T04:00Z,RTX 3090,RunPod Community,stock,1
+2026-11-21T04:00Z,RTX 3090,Salad,util_pct,100
+2026-11-21T04:00Z,RTX 3090,Vast.ai,gpus_rented,1031
+2026-11-21T04:00Z,RTX 3090,Vast.ai,gpus_total,1273
+2026-11-21T04:00Z,RTX 4090,Clore.ai,gpus_rented,114
+2026-11-21T04:00Z,RTX 4090,Clore.ai,gpus_total,305
+2026-11-21T04:00Z,RTX 4090,Lium,gpus_rented,157
+2026-11-21T04:00Z,RTX 4090,Lium,gpus_total,189
+2026-11-21T04:00Z,RTX 4090,Nosana,gpus_rented,53
+2026-11-21T04:00Z,RTX 4090,Nosana,gpus_total,63
+2026-11-21T04:00Z,RTX 4090,RunPod Secure,stock,3
+2026-11-21T04:00Z,RTX 4090,Salad,util_pct,100
+2026-11-21T04:00Z,RTX 4090,Vast.ai,gpus_rented,908
+2026-11-21T04:00Z,RTX 4090,Vast.ai,gpus_total,1223
+2026-11-21T04:00Z,RTX 4090,io.net,gpus_rented,648
+2026-11-21T04:00Z,RTX 4090,io.net,gpus_total,648
+2026-11-21T04:00Z,RTX 5090,Clore.ai,gpus_rented,267
+2026-11-21T04:00Z,RTX 5090,Clore.ai,gpus_total,519
+2026-11-21T04:00Z,RTX 5090,Lium,gpus_rented,426
+2026-11-21T04:00Z,RTX 5090,Lium,gpus_total,561
+2026-11-21T04:00Z,RTX 5090,Nosana,gpus_rented,45
+2026-11-21T04:00Z,RTX 5090,Nosana,gpus_total,45
+2026-11-21T04:00Z,RTX 5090,RunPod Secure,stock,1
+2026-11-21T04:00Z,RTX 5090,Salad,util_pct,100
+2026-11-21T04:00Z,RTX 5090,Vast.ai,gpus_rented,2395
+2026-11-21T04:00Z,RTX 5090,Vast.ai,gpus_total,2734
+2026-11-21T04:00Z,RTX 6000 Ada,Clore.ai,gpus_rented,0
+2026-11-21T04:00Z,RTX 6000 Ada,Clore.ai,gpus_total,1
+2026-11-21T04:00Z,RTX 6000 Ada,Lium,gpus_rented,18
+2026-11-21T04:00Z,RTX 6000 Ada,Lium,gpus_total,24
+2026-11-21T04:00Z,RTX 6000 Ada,Nosana,gpus_rented,1
+2026-11-21T04:00Z,RTX 6000 Ada,Nosana,gpus_total,2
+2026-11-21T04:00Z,RTX 6000 Ada,RunPod Secure,stock,1
+2026-11-21T04:00Z,RTX 6000 Ada,Vast.ai,gpus_rented,84
+2026-11-21T04:00Z,RTX 6000 Ada,Vast.ai,gpus_total,109
+2026-11-21T04:00Z,RTX 6000 Ada,io.net,gpus_rented,8
+2026-11-21T04:00Z,RTX 6000 Ada,io.net,gpus_total,8
+2026-11-21T04:00Z,RTX A6000,Clore.ai,gpus_rented,1
+2026-11-21T04:00Z,RTX A6000,Clore.ai,gpus_total,3
+2026-11-21T04:00Z,RTX A6000,Lium,gpus_rented,38
+2026-11-21T04:00Z,RTX A6000,Lium,gpus_total,71
+2026-11-21T04:00Z,RTX A6000,Nosana,gpus_rented,1
+2026-11-21T04:00Z,RTX A6000,Nosana,gpus_total,2
+2026-11-21T04:00Z,RTX A6000,RunPod Secure,stock,1
+2026-11-21T04:00Z,RTX A6000,Vast.ai,gpus_rented,123
+2026-11-21T04:00Z,RTX A6000,Vast.ai,gpus_total,149
+2026-11-21T04:00Z,RTX A6000,io.net,gpus_rented,2
+2026-11-21T04:00Z,RTX A6000,io.net,gpus_total,2
+2026-11-21T04:00Z,RTX PRO 6000,Akash,gpus_rented,77
+2026-11-21T04:00Z,RTX PRO 6000,Akash,gpus_total,90
+2026-11-21T04:00Z,RTX PRO 6000,Clore.ai,gpus_rented,19
+2026-11-21T04:00Z,RTX PRO 6000,Clore.ai,gpus_total,39
+2026-11-21T04:00Z,RTX PRO 6000,Lium,gpus_rented,109
+2026-11-21T04:00Z,RTX PRO 6000,Lium,gpus_total,178
+2026-11-21T04:00Z,RTX PRO 6000,Nosana,gpus_rented,30
+2026-11-21T04:00Z,RTX PRO 6000,Nosana,gpus_total,30
+2026-11-21T04:00Z,RTX PRO 6000,RunPod Community,stock,1
+2026-11-21T04:00Z,RTX PRO 6000,RunPod Secure,stock,3
+2026-11-21T04:00Z,RTX PRO 6000,Vast.ai,gpus_rented,1061
+2026-11-21T04:00Z,RTX PRO 6000,Vast.ai,gpus_total,1342
+2026-11-21T04:00Z,RTX PRO 6000,io.net,gpus_rented,2
+2026-11-21T04:00Z,RTX PRO 6000,io.net,gpus_total,2
+2026-11-21T04:00Z,T4,AWS,interrupt_pct,13.93
+2026-11-21T04:00Z,T4,AWS,spot_discount_pct,65.52
+2026-11-21T04:00Z,T4,Clore.ai,gpus_rented,0
+2026-11-21T04:00Z,T4,Clore.ai,gpus_total,1
+2026-11-21T04:00Z,T4,Vast.ai,gpus_rented,11
+2026-11-21T04:00Z,T4,Vast.ai,gpus_total,16
+2026-11-21T04:00Z,T4,io.net,gpus_rented,1
+2026-11-21T04:00Z,T4,io.net,gpus_total,1
+2026-11-21T04:00Z,V100,AWS,interrupt_pct,25
+2026-11-21T04:00Z,V100,AWS,spot_discount_pct,72.73
+2026-11-21T04:00Z,V100,Akash,gpus_rented,9
+2026-11-21T04:00Z,V100,Akash,gpus_total,44
+2026-11-21T04:00Z,V100,Clore.ai,gpus_rented,2405
+2026-11-21T04:00Z,V100,Clore.ai,gpus_total,2421
+2026-11-21T04:00Z,V100,Lium,gpus_rented,16
+2026-11-21T04:00Z,V100,Lium,gpus_total,16
+2026-11-21T04:00Z,V100,Vast.ai,gpus_rented,226
+2026-11-21T04:00Z,V100,Vast.ai,gpus_total,279
